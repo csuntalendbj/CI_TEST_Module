@@ -10,6 +10,14 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
+    <module>code/beans</module>
+    <module>jobs/joblets/incomingonewayrequest_0.1</module>
+    <module>jobs/routelets/routeletproperiteswithspringbean_0.1</module>
+    <module>jobs/process/Rest/restwithjobletandcustomroutineref_0.1</module>
+    <module>jobs/routes/routewithrouteletresourcebean_0.1</module>
+    <module>jobs/routes/routewithctalendjob_0.1</module>
+    <module>jobs/process/jobcalledbyctalendjob_0.1</module>
+    <module>jobs/services/thmapdataservice_0.1</module>
   </modules>
   <properties>
     <talend.project.name>P2</talend.project.name>

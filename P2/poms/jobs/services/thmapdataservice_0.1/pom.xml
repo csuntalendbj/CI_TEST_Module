@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.example.p2</groupId>
+    <artifactId>code.Master</artifactId>
+    <version>7.1.1</version>
+    <relativePath>../../../</relativePath>
+  </parent>
+  <groupId>org.example.p2.service</groupId>
+  <artifactId>THMapDataService</artifactId>
+  <version>0.1.0</version>
+  <packaging>pom</packaging>
+  <modules>
+    <module>../../process/THMapDataService/DemoServicePortType/DemoServiceOperation/demoserviceporttype_demoserviceoperation_0.1</module>
+    <module>pom-control-bundle.xml</module>
+    <module>pom-feature.xml</module>
+  </modules>
+  <properties>
+    <talend.project.name>P2</talend.project.name>
+    <talend.job.id>_8UB0UDwOEeWQVcEFm8j31g</talend.job.id>
+    <talend.job.version>0.1</talend.job.version>
+  </properties>
+</project>
