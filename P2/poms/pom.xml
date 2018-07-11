@@ -18,6 +18,16 @@
     <module>jobs/routes/routewithctalendjob_0.1</module>
     <module>jobs/process/jobcalledbyctalendjob_0.1</module>
     <module>jobs/services/thmapdataservice_0.1</module>
+    <module>jobs/routes/routewithcconfig_0.1</module>
+    <module>jobs/process/Rest/restservicewiththmap_0.1</module>
+    <module>jobs/routes/routewithroutelettalendjobbeanref_0.1</module>
+    <module>jobs/process/SOAP/soapwithjobletandcustomroutineref_0.1</module>
+    <module>jobs/joblets/returnresponse_0.1</module>
+    <module>jobs/process/Rest/restservicewithroutineandjoblet_0.1</module>
+    <module>jobs/joblets/jobsuccess_0.1</module>
+    <module>jobs/joblets/joberror_0.1</module>
+    <module>jobs/services/jobletroutinedataservice_0.1</module>
+    <module>jobs/routes/routewithcmap_0.1</module>
   </modules>
   <properties>
     <talend.project.name>P2</talend.project.name>

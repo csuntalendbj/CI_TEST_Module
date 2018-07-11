@@ -183,6 +183,7 @@
       <relatedItems xmi:id="_wnMR24TdEeiYe6HS_L_c3w" id="DataQualityDependencies" version="Latest" type="routine"/>
       <relatedItems xmi:id="_wnMR3ITdEeiYe6HS_L_c3w" id="MDM" version="Latest" type="routine"/>
       <relatedItems xmi:id="_wnMR3YTdEeiYe6HS_L_c3w" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_2037wITdEeiYe6HS_L_c3w" id="_8VZU8FiyEeiOq-rLS_Z-8g" version="0.1" type="services"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_wnMR3oTdEeiYe6HS_L_c3w">
       <baseItem xmi:id="_wnMR34TdEeiYe6HS_L_c3w" id="_GXOmQFizEeiOq-rLS_Z-8g" version="0.1" type="job"/>
@@ -205,6 +206,7 @@
       <relatedItems xmi:id="_wnMR8ITdEeiYe6HS_L_c3w" id="DataQualityDependencies" version="Latest" type="routine"/>
       <relatedItems xmi:id="_wnMR8YTdEeiYe6HS_L_c3w" id="MDM" version="Latest" type="routine"/>
       <relatedItems xmi:id="_wnMR8oTdEeiYe6HS_L_c3w" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_2037wYTdEeiYe6HS_L_c3w" id="_8VZU8FiyEeiOq-rLS_Z-8g" version="0.1" type="services"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_wnMR84TdEeiYe6HS_L_c3w">
       <baseItem xmi:id="_wnMR9ITdEeiYe6HS_L_c3w" id="_7sbmAFg6EeibVPkk1vdQBQ" version="0.1" type="job"/>
@@ -279,6 +281,7 @@
       <relatedItems xmi:id="_wnM4oITdEeiYe6HS_L_c3w" id="MDM" version="Latest" type="routine"/>
       <relatedItems xmi:id="_wnM4oYTdEeiYe6HS_L_c3w" id="DataQualityDependencies" version="Latest" type="routine"/>
       <relatedItems xmi:id="_wnM4ooTdEeiYe6HS_L_c3w" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_2037woTdEeiYe6HS_L_c3w" id="_8UB0UDwOEeWQVcEFm8j31g" version="0.1" type="services"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_wnM4o4TdEeiYe6HS_L_c3w">
       <baseItem xmi:id="_wnM4pITdEeiYe6HS_L_c3w" id="_WM3TYFgdEeiArIGwtMOF0Q" version="0.1" type="job"/>
@@ -334,6 +337,7 @@
       <relatedItems xmi:id="_wnM41ITdEeiYe6HS_L_c3w" id="TalendStringUtil" version="Latest" type="routine"/>
       <relatedItems xmi:id="_wnM41YTdEeiYe6HS_L_c3w" id="DataQualityDependencies" version="Latest" type="routine"/>
       <relatedItems xmi:id="_wnM41oTdEeiYe6HS_L_c3w" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_2037w4TdEeiYe6HS_L_c3w" id="_1fQ8UFNcEei23u1qr-SPiw" version="Latest" type="resource"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_wnM414TdEeiYe6HS_L_c3w">
       <baseItem xmi:id="_wnM42ITdEeiYe6HS_L_c3w" id="_QkDYUFNdEei23u1qr-SPiw" version="0.1" type="job"/>
