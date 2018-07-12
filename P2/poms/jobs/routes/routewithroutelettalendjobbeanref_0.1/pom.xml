@@ -8,6 +8,7 @@
   <packaging>pom</packaging>
   <name>P2 RouteWithRouteletTalendJobBeanRef-0.1.0 (0.1,Routes) Kar</name>
   <modules>
+    <module>../../routelets/logroutelet_0.1/pom.xml</module>
     <module>pom-bundle.xml</module>
     <module>pom-feature.xml</module>
   </modules>
@@ -126,6 +127,16 @@
       <groupId>org.example.p2.bean</groupId>
       <artifactId>beans</artifactId>
       <version>7.1.1</version>
+    </dependency>
+    <dependency>
+      <groupId>org.example.p2.job</groupId>
+      <artifactId>BodyUpperCaseJob</artifactId>
+      <version>0.1.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.example.p2.job</groupId>
+      <artifactId>LogRoutelet</artifactId>
+      <version>0.1.0</version>
     </dependency>
   </dependencies>
   <build>

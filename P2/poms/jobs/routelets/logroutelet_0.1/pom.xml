@@ -9,7 +9,6 @@
   <name>P2 LogRoutelet-0.1.0 (0.1,Routelets) Kar</name>
   <modules>
     <module>pom-bundle.xml</module>
-    <module>pom-feature.xml</module>
   </modules>
   <dependencies>
     <dependency>
@@ -123,14 +122,4 @@
       <version>7.1.1</version>
     </dependency>
   </dependencies>
-  <build>
-    <plugins>
-      <plugin>
-        <artifactId>maven-deploy-plugin</artifactId>
-        <configuration>
-          <skip>true</skip>
-        </configuration>
-      </plugin>
-    </plugins>
-  </build>
 </project>
