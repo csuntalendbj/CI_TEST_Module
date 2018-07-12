@@ -15,7 +15,6 @@
     <module>jobs/process/Rest/restwithjobletandcustomroutineref_0.1</module>
     <module>jobs/process/bodyuppercasejob_0.1</module>
     <module>jobs/process/jobcalledbyctalendjob_0.1</module>
-    <module>jobs/routes/routewithrouteletresourcebean_0.1</module>
     <module>jobs/routes/routewithroutelettalendjobbeanref_0.1</module>
     <module>jobs/routes/routewithcconfig_0.1</module>
     <module>jobs/routes/routewithcmap_0.1</module>
