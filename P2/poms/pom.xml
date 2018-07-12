@@ -16,21 +16,6 @@
     <module>jobs/process/bodyuppercasejob_0.1</module>
     <module>jobs/process/jobcalledbyctalendjob_0.1</module>
     <module>jobs/routes/routewithroutelettalendjobbeanref_0.1</module>
-    <module>jobs/routes/routewithcconfig_0.1</module>
-    <module>jobs/routes/routewithcmap_0.1</module>
-    <module>jobs/routes/routewithctalendjob_0.1</module>
-    <module>jobs/routelets/logroutelet_0.1</module>
-    <module>jobs/routelets/routeletproperiteswithspringbean_0.1</module>
-    <module>jobs/joblets/appendcurrenttimejoblet_0.1</module>
-    <module>jobs/joblets/incomingonewayrequest_0.1</module>
-    <module>jobs/joblets/joberror_0.1</module>
-    <module>jobs/joblets/jobsuccess_0.1</module>
-    <module>jobs/joblets/returnresponse_0.1</module>
-    <module>jobs/services/demoservice_0.1</module>
-    <module>jobs/services/jobletroutinedataservice_0.1</module>
-    <module>jobs/services/thmapdataservice_0.1</module>
-    <module>code/routines</module>
-    <module>code/beans</module>
   </modules>
   <distributionManagement>
     <repository>
