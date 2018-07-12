@@ -28,6 +28,10 @@
     <module>jobs/services/thmapdataservice_0.1</module>
     <module>code/routines</module>
     <module>code/beans</module>
+    <module>jobs/routelets/logroutelet_0.1</module>
+    <module>jobs/joblets/appendcurrenttimejoblet_0.1</module>
+    <module>jobs/services/demoservice_0.1</module>
+    <module>jobs/process/bodyuppercasejob_0.1</module>
   </modules>
   <distributionManagement>
     <repository>
