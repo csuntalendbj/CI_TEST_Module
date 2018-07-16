@@ -71,7 +71,7 @@
               <artifactId>RouteWithRouteletTalendJobBeanRef_BodyUpperCaseJob</artifactId>
               <version>0.1.0</version>
               <packaging>jar</packaging>
-              <file>../../../process/bodyuppercasejob_0.1/target/bodyuppercasejob_0_1.jar</file>
+              <file>../../process/bodyuppercasejob_0.1/target/bodyuppercasejob_0_1.jar</file>
               <generatePom>true</generatePom>
             </configuration>
           </execution>
@@ -92,7 +92,7 @@
               <artifactId>RouteWithRouteletTalendJobBeanRef_LogRoutelet</artifactId>
               <version>0.1.0</version>
               <packaging>jar</packaging>
-              <file>../../../routelets/logroutelet_0.1/target/logroutelet_0_1.jar</file>
+              <file>../../routelets/logroutelet_0.1/target/logroutelet_0_1.jar</file>
               <generatePom>true</generatePom>
             </configuration>
           </execution>

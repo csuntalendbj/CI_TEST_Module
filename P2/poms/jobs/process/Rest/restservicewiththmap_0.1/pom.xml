@@ -23,7 +23,7 @@
     <project.distribution-management.repository.id>${project.distributionManagement.repository.id}</project.distribution-management.repository.id>
     <maven.build.timestamp.format>yyyy-MM-dd HHmmssSSS</maven.build.timestamp.format>
     <talend.project.name>P2</talend.project.name>
-    <talend.product.version>7.1.1.20180710_1933-SNAPSHOT</talend.product.version>
+    <talend.product.version>7.0.1.qualifier</talend.product.version>
     <talend.job.finalName>restservicewiththmap_0_1</talend.job.finalName>
     <talend.pigudf.groupid>org.example.p2.pigudf</talend.pigudf.groupid>
     <talend.routine.groupid>org.example.p2.code</talend.routine.groupid>
@@ -93,9 +93,9 @@
       <version>3.2.4</version>
     </dependency>
     <dependency>
-      <groupId>org.talend.libraries</groupId>
-      <artifactId>cxf-rt-rs-client-3.2.4</artifactId>
-      <version>6.0.0</version>
+      <groupId>org.apache.cxf</groupId>
+      <artifactId>cxf-rt-rs-client</artifactId>
+      <version>3.2.4</version>
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
@@ -314,8 +314,18 @@
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
+      <artifactId>slf4j-api-1.7.10</artifactId>
+      <version>6.1.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
       <artifactId>slf4j-api-1.7.5</artifactId>
       <version>6.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>slf4j-log4j12-1.7.10</artifactId>
+      <version>6.1.0</version>
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
@@ -386,6 +396,16 @@
       <groupId>org.talend.libraries</groupId>
       <artifactId>talend_file_enhanced_20070724</artifactId>
       <version>6.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>tdm-camel-7.0.1-20180227_1542-EP2</artifactId>
+      <version>7.0.1</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>tdm-lib-di-7.0.1-20180227_1542-EP2</artifactId>
+      <version>7.0.1</version>
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>

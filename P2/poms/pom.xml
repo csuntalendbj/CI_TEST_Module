@@ -9,38 +9,24 @@
   <name>P2 Codes Master</name>
   <url>http://www.talend.org/</url>
   <modules>
-    <module>jobs/process/SOAP/soapwithjobletandcustomroutineref_0.1</module>
     <module>jobs/process/Rest/restservicewithroutineandjoblet_0.1</module>
     <module>jobs/process/Rest/restservicewiththmap_0.1</module>
     <module>jobs/process/Rest/restwithjobletandcustomroutineref_0.1</module>
     <module>jobs/process/bodyuppercasejob_0.1</module>
     <module>jobs/process/jobcalledbyctalendjob_0.1</module>
     <module>jobs/routes/routewithroutelettalendjobbeanref_0.1</module>
-    <module>jobs/routes/routewithcconfig_0.1</module>
-    <module>jobs/routes/routewithcmap_0.1</module>
-    <module>jobs/routes/routewithctalendjob_0.1</module>
-    <module>jobs/routelets/routeletproperiteswithspringbean_0.1</module>
-    <module>jobs/joblets/appendcurrenttimejoblet_0.1</module>
-    <module>jobs/joblets/incomingonewayrequest_0.1</module>
-    <module>jobs/joblets/joberror_0.1</module>
-    <module>jobs/joblets/jobsuccess_0.1</module>
-    <module>jobs/joblets/returnresponse_0.1</module>
-    <module>jobs/services/demoservice_0.1</module>
-    <module>jobs/services/jobletroutinedataservice_0.1</module>
-    <module>jobs/services/thmapdataservice_0.1</module>
-    <module>code/routines</module>
-    <module>code/beans</module>
+    <module>jobs/routelets/logroutelet_0.1</module>
   </modules>
   <distributionManagement>
     <repository>
       <id>nexus</id>
       <name>Nexus Release Repository</name>
-      <url>http://localhost:8081/repository/releases/</url>
+      <url>http://127.0.0.1:8081/nexus/content/repositories/releases/</url>
     </repository>
     <snapshotRepository>
       <id>nexus</id>
       <name>Nexus Snapshot Repository</name>
-      <url>http://localhost:8081/repository/snapshots/</url>
+      <url>http://127.0.0.1:8081/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
   <properties>
