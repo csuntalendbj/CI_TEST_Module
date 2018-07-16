@@ -71,7 +71,7 @@
               <artifactId>RouteWithcTalendjob_JobCalledBycTalendjob</artifactId>
               <version>0.1.0</version>
               <packaging>jar</packaging>
-              <file>../../../process/jobcalledbyctalendjob_0.1/target/jobcalledbyctalendjob_0_1.jar</file>
+              <file>../../process/jobcalledbyctalendjob_0.1/target/jobcalledbyctalendjob_0_1.jar</file>
               <generatePom>true</generatePom>
             </configuration>
           </execution>
